@@ -1,0 +1,14 @@
+:root{
+    --bgcolor:#B8B8B8;
+    --fontvariable:20px;
+}
+
+h1{
+    background-color: var(--bgcolor);
+
+
+}
+p{
+    background-color: var(--bgcolor);
+    font-size: var(--fontvariable);
+}
